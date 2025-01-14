@@ -1,0 +1,14 @@
+{
+    "author": "Titanor-Soulstone",
+    "description": "This script changes the current season in serene seasons based on the current season in real life",
+    "versions": [
+        10
+    ],
+    "modloaders": [
+        "forge"
+    ],
+    "dependencies": [
+        "mod:sereneseasons"
+    ],
+    "incompatibilities": []
+}
